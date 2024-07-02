@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/third.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Personal Portfolio",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "In my portfolio, you'll find a diverse range of projects that highlight my skills and experiences.",
+    url: "https://shrutisangwan07.github.io/Portfolio-Website/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "PG Booking Website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      " A ReactJS-based website for searching and booking PGs in a particular area. Designed and developed the front end using HTML, CSS, and React, and created the back end with a dummy database.",
+    url: "https://pglifes.com/",
   },
   {
-    title: "My Resume Site",
+    title: "QuizNia - Online Quiz Web App (Academic Project)",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This quiz web app was built using HTML, CSS, JavaScript, and React, with a MySQL database to store user and quiz data. My role included designing the interface and implementing key features. I worked closely with three other developers to integrate the front and back end for a seamless user experience.",
+    url: "#",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "SEO Service Site - WordPress",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Developed an SEO service site web page using WordPress, utilizing the Elementor Pro plugin to create a website from scratch.",
+    url: "https://livepux.wordpress.com/",
   },
 ];
 
